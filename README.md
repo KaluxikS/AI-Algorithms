@@ -1,2 +1,6 @@
 # AI-Algorithms
-k-NN algorithm, knapsack problem
+Algorithms made for classes.
+
+Run
+---
+Clone the code and use python <name>.py
